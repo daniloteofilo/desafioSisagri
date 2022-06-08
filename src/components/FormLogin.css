@@ -1,0 +1,9 @@
+.form-login {
+  background-color: white;
+  width: 418px;
+  border-radius: 8px;
+}
+
+input {
+  margin-bottom: 24px;
+}
