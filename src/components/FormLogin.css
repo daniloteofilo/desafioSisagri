@@ -9,6 +9,7 @@
 }
 
 .title-acess-account {
+  font-weight: 500;
   font-size: 32px;
   line-height: 38.4px;
   margin-bottom: 55px;
@@ -17,13 +18,17 @@
 }
 
 input {
+  font-weight: 300;
   width: 335px;
   height: 45px;
   margin-bottom: 24px;
   border-radius: 10px;
+  padding: 0 5%;
+  border: 2px solid #DBDBDB;
 }
 
 a.recover-password {
+  font-weight: 400;
   color: #1A877F;
   font-size: 14px;
   text-decoration: none;
@@ -34,12 +39,12 @@ a.recover-password {
   margin-bottom: 24px;
 }
 
-
 a.recover-password:hover {
   text-decoration: underline;
 }
 
 .button-login {
+  font-weight: 500;
   height: 48px;
   border-radius: 4px;
   padding: 11px 149px;
@@ -49,11 +54,18 @@ a.recover-password:hover {
   margin-bottom: 26px;
 }
 
+.button-login:hover {
+  background-color: #1a8780c5;
+}
+
 p.no-account {
-  font-size:18px ;
+  font-weight: 300;
+  font-size:18px;
+  color: #5F5F5F;
 }
 
 a.sign-up {
+  font-weight: 500;
   font-size: 18px;
   text-decoration: none;
   color: #1A877F;

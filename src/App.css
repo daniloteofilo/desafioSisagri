@@ -1,11 +1,38 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
 }
 
 .main-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: gray;
 }
 
+.left-container {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+  
+}
+
+.logo-container {
+  height: 50%;
+  width: 100%;
+}
+
+.right-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 80%;
+}
