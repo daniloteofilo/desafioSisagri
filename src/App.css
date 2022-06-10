@@ -12,6 +12,9 @@ body {
   justify-content: center;
   align-items: center;
   background-color: gray;
+  background-image: url(./images/background-login.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .left-container {
@@ -47,11 +50,21 @@ body {
   font-size: 24px;
   font-weight: 400;
   width: 500px;
-  margin-bottom: 91px;
+  margin-bottom: 50px;
 }
 
-.logo-container {
+.social-networks {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 500px;
+  padding: 0 40px;
   padding-bottom: 70px;
+}
+
+.logo-social-networks {
+  width: 53px;
+  height: 53px;
 }
 
 .right-container{
