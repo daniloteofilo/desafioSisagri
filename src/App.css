@@ -73,3 +73,46 @@ body {
   align-items: center;
   width: 50%;
 }
+
+/* =========== CSS DASHBOARD*/
+
+.dashboard-container {
+  display: flex;
+}
+
+.aside-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #FFFFFF;
+  background-color: #00A69A;
+  width: 250px;
+  padding: 0 22px;
+}
+
+.logo-aside-bar{
+  display: flex;
+}
+
+.list-aside-bar {
+  padding: 8px 0px;
+  display: flex;
+  align-items: ;
+  font-weight: 400;
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+.list-aside-bar:hover {
+  background-color: #1A877F;
+  font-weight: 500;
+}
+
+.line-separate {
+  margin: 82px 29px 24px 24px;
+  background-color: #E6E7E9;
+  height: 1px;
+  width: 200px;
+  border-bottom: 1px solid white;
+}
+
