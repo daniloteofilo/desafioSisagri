@@ -1,5 +1,6 @@
 import '../App.css';
 import { Chart } from "react-google-charts";
+import './DashboardPage.css';
 
 import { ReactComponent as SisagriLogo } from '../images/sisagri-logo.svg';
 import { ReactComponent as FacebookLogo } from '../images/facebook-logo-dashboard.svg';
@@ -27,7 +28,7 @@ const data = [
 ];
   
 const options = {
-    title: "Resumo",
+    title: "Resumo \n Nov - Julh",
     curveType: "function",
     legend: { position: "top-right" },
 };

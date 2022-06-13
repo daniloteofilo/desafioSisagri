@@ -7,7 +7,7 @@ import { ReactComponent as WhatsappLogo } from '../images/whatsapp-logo.svg';
 
 
 
-function LoginPage() {
+function LoginPage({onSuccess}) {
   return (
     <main className='main-container'>
       <div className='left-container'>
@@ -29,7 +29,7 @@ function LoginPage() {
       </div>
 
       <div className='right-container'>
-       <FormLogin />
+       <FormLogin onSuccess={onSuccess} />
       </div>
     </main>
   );
