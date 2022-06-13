@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e0e9745.css",
+    "main.js": "/static/js/main.d5591220.js",
+    "static/js/787.0d510c75.chunk.js": "/static/js/787.0d510c75.chunk.js",
+    "static/media/background-login.png": "/static/media/background-login.3214e7141da133ced9b8.png",
+    "static/media/sisagri-logo.svg": "/static/media/sisagri-logo.9751874d4b240a61db03d89710081737.svg",
+    "static/media/whatsapp-logo.svg": "/static/media/whatsapp-logo.09c38ec7c95e21b1bdee70340a37fd81.svg",
+    "static/media/whatsapp-logo-dashboard.svg": "/static/media/whatsapp-logo-dashboard.dae9e3eb41868ba11b4e57238208f477.svg",
+    "index.html": "/index.html",
+    "static/media/instagram-logo.svg": "/static/media/instagram-logo.2692b856532ae688f0c5896241adffa0.svg",
+    "static/media/instagram-logo-dashboard.svg": "/static/media/instagram-logo-dashboard.2e68cdd4f9aed02f500358efe594c668.svg",
+    "static/media/facebook-logo.svg": "/static/media/facebook-logo.8325fd2a821316931d150998f32413cb.svg",
+    "static/media/facebook-logo-dashboard.svg": "/static/media/facebook-logo-dashboard.3a9a0dfe147ccd414c79b02a8c54b13f.svg",
+    "main.4e0e9745.css.map": "/static/css/main.4e0e9745.css.map",
+    "main.d5591220.js.map": "/static/js/main.d5591220.js.map",
+    "787.0d510c75.chunk.js.map": "/static/js/787.0d510c75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e0e9745.css",
+    "static/js/main.d5591220.js"
+  ]
+}
